@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:lqiongzhu@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/QiongzhuLi/QiongzhuLi.github.io"}
   - {title: Subscribe, icon: rss, url: "https://www.linkedin.com/in/qiongzhuli/"}
-  - {title: Resume, icon: file-user, file: "_includes/Resume_Qiongzhu Li.pdf"}
+  - {title: Resume, icon: file-user, file: "_includes/Resume_Qiongzhu_Li.pdf"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
