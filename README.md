@@ -1,16 +1,13 @@
 ---
-title: "About"
 permalink: "/about/"
 layout: page
 ---
-
-Qiongzhu is currently a Senior data scientist at PwC. She is an experienced Data Scientist with more than 10 years of work and study in data science, After completing her Bachelor’s and Master’s programs in Statistics, she subsequently worked for one of the big banks and a well-known fintech giant in China, mainly focusing on delivering end-to-end data solutions to balance risk management, user experience and company revenue. She excels in ETL, data mining, statistical analysis, machine learning/deep learning models development, model automation, strategies making, and dashboard design for visualization. She likes explaining complex problems in simpler ways, such as using analogies and stories.
 
 
 <h1 align="center"><b>Hi , I'm Qiongzhu(Lizabeth) Li </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Active+Learner;Passionate+about+data+science;Responsible+AI+advocate;Women+in+Tech"></a>
 </p>
 
 
@@ -33,7 +30,9 @@ Qiongzhu is currently a Senior data scientist at PwC. She is an experienced Data
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
+![](pics/self_photo.jpg)<br><br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
