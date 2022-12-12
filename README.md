@@ -1,4 +1,5 @@
 ---
+title: "About"
 permalink: "/about/"
 layout: page
 ---
@@ -18,7 +19,7 @@ layout: page
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/QiongzhuLi/QiongzhuLi.github.io/blob/master/assets/pics/self_photo.jpg" width = 250px></picture>
 
 <br>
 
