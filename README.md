@@ -8,7 +8,7 @@ layout: page
 
 <p align="center">
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Active+Learner;Passionate+about+data+science;Responsible+AI+advocate;Women+in+Tech"></a> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&width=650&lines=Warm+welcome+to+my+personal+data+science+blog;Enjoy+some+interesting+adventures+with+me!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=650&lines=Warm+welcome+to+my+personal+data+science+blog;Enjoy+some+interesting+adventures+with+me!" alt="Typing SVG" /></a>
 </p>
 
 
