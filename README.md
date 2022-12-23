@@ -20,10 +20,10 @@ layout: page
 <br>
 
 - A senior data scientist at PwC, an experienced Data Scientist with more than 10 years of work and study in data science, specialized in risk management
-- Previous worked for Tencent, providing end-to-end data science solution for more than 1 billion customers
-- Hold both Bachelor’s and Master’s programs in Statistics
+- Previous worked for Tencent (Wechat Pay), providing end-to-end data science solutions for more than 1 billion customers
+- Hold both Bachelor’s and Master’s programs in Statistics from China and Sweden
 - Excels in ETL, data mining, statistical analysis, machine learning/deep learning models development, model automation, strategies making, and dashboard design for visualization. 
-- Regular knowledge sharing with technical/non-technical audience. Likes explaining complex problems in simpler ways, such as using analogies and stories.
+- Regular knowledge sharing with technical/non-technical audience. Prefer to explaining complex problems in simpler ways, such as using analogies and stories.
 
 
 <br><br>

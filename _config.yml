@@ -1,6 +1,6 @@
 title: "Qiongzhu's Personal Data Science Blog"
 author: "Qiongzhu Li"
-# description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Awesome blog about applied data science"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
