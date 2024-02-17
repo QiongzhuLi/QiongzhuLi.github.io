@@ -52,7 +52,7 @@ streamlit run api/chatglm3_demo.py
 ```
 This action will grant you access to an interface similar to the one depicted below, accessible at http://localhost:8501. Enjoy exploring the functionalities of your local LLM!
 
-![alt text](pics/image-1.png)
+![alt text](pics/20240217/image-1.png)
 
 Should you wish to integrate this model into your application via an API, you can reference the following piece of code:
 
@@ -61,7 +61,7 @@ python api/main.py
 ```
 You can test the functionality of your API using tools such as "thunder light" in VSCode or Postman, or any other framework you're familiar with.
 
-![alt text](pics/image.png)
+![alt text](pics/20240217/image.png)
 
 
 
