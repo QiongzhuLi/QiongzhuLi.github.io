@@ -34,7 +34,7 @@ python3 chatglm_cpp/convert.py -i THUDM/chatglm3-6b -t q4_0 -o chatglm-ggml.bin
 Following the successful completion of the conversion, you'll acquire a file named "chatglm-ggml.bin," ready for sharing or utilization in establishing personalized services.
 
 
-<br></br>
+<br>
 
 ## Local machine deployment
 To deploy the model on your local machine, follow these steps:
@@ -64,7 +64,7 @@ You can test the functionality of your API using tools such as "thunder light" i
 
 ![alt text](/assets/pics/20240217/image.png)
 
-<br></br>
+<br>
 
 ## Docker Deployment
 I've crafted a basic version of a Dockerfile to facilitate the creation of your Docker image. You can build your image by executing:
