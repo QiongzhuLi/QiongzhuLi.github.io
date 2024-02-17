@@ -82,13 +82,14 @@ docker-compose up
 ### Error handling
 If you encounter errors during the deployment process, follow these steps for resolution:
 
-1. If you encounter the error below, first execute ```docker pull ubuntu:20.04```:  
+#### 1. If you encounter the error below, first execute ```docker pull ubuntu:20.04```:  
 ```
 ERROR: failed to solve: ubuntu:20.04: failed commit on ref "unknown-sha256:1568392b0df36dd09a48d9e1388f19e31c705738493a05a416104511fae584b1": "unknown-sha256:1568392b0df36dd09a48d9e1388f19e31c705738493a05a416104511fae584b1" failed size validation: 8144 != 7816: failed precondition
 
 View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/hc0ala8gzygseopryo04je3tb
 ```
-2. If you encounter the following error, disconnect from your VPN:
+
+#### 2. If you encounter the following error, disconnect from your VPN:
 
 ```
 Dockerfile:8
