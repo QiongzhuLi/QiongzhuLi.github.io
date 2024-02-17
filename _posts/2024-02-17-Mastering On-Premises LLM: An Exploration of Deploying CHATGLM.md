@@ -1,5 +1,5 @@
 ---
-title: "Mastering On-Premises AI: An Exploration of Deploying CHATGLM"
+title: "Mastering On-Premises LLM: An Exploration of Deploying CHATGLM"
 layout: post
 ---
 
