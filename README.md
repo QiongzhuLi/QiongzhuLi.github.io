@@ -23,6 +23,13 @@ layout: page
 - Main work areas include Healthcare, Fintech, AI & Enterprise solutions. Served world-renowned pharmaceutical companies, Silicon Valley tech giants, etc.
 - Currently focused on researching and developing GenAI related enterprise-level services, other tech stack includes Machine Learning/Deep Learning, NLP, Graph, AWS/Azure cloud, CICD delivery
 
+目前世界头部药企Data Science Manager👩‍💻，
+前四大咨询公司数字魔法师🧙‍♂️,
+曾经的🪿厂数据安全卫士，
+马拉松的悠闲跑者🏃‍♀️，
+全栈工程师在🫎上,
+讨🐈嫌的吸🐈达人
+
 
 <br><br>
 
